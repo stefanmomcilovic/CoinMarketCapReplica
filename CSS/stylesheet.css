@@ -1,0 +1,32 @@
+html,body{
+    padding-top: 40px;
+}
+.h6{
+    padding: 0 3rem;
+}
+.h6 .moon{
+    padding-left: 1rem;
+}
+.backspace{
+    margin-left: -6rem;
+}
+.form{
+    padding: 20px 20px;
+    margin-bottom: 30px;
+    background-color: #1212;
+}
+.form2{
+    position: relative;
+    left: 22rem;
+    width: 500px;
+}
+.form3{
+    position: relative;
+    left: 31rem;
+}
+#footer-main{
+    padding: 2rem 0;
+    border-top: 1px solid gray;
+    border-left: 1px solid gray;
+    border-radius: 80px;
+}
